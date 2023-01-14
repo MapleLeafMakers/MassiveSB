@@ -2,6 +2,14 @@
 
 Printable models of all the hardware required to build a [Mini Stealthburner](https://vorondesign.com/voron0.2) at any scale.
 
+See it in action in the video below
+
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=NLfjnJAi_8A">
+         <img src="https://img.youtube.com/vi/NLfjnJAi_8A/0.jpg" >
+      </a>
+</div>
+
 ## Instructions
 
 - Print the following STL files from the [Voron Zero repository](https://github.com/VoronDesign/Voron-0/) Scaling them to your desired size
